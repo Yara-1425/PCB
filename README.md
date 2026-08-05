@@ -15,13 +15,15 @@ A simple and beginner-friendly electronic circuit design featuring a 5V power in
 ### 2. PCB Layout & Routing
 *The physical layout of the components and copper tracks on the printed circuit board.*
 
-<img width="703" height="532" alt="Screenshot 2026-08-05 115752" src="https://github.com/user-attachments/assets/c831556e-bd93-4708-b556-6c18426c2a47" />
+<img width="162" height="127" alt="Screenshot 2026-08-05 122101" src="https://github.com/user-attachments/assets/8fd84fa5-308b-4c3b-b97a-13771a72cfec" />
+
 
 
 ### 3. 3D View
 *A realistic 3D preview of the manufactured PCB board with its components.*
 
-<img width="1212" height="518" alt="Screenshot 2026-08-05 120354" src="https://github.com/user-attachments/assets/e18e8207-29e6-4386-8779-1b2afeb72b18" />
+<img width="1020" height="546" alt="Screenshot 2026-08-05 122131" src="https://github.com/user-attachments/assets/34762b0d-f5d4-4f60-b35a-1df09b9ec389" />
+
 
 
 ---
