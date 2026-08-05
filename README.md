@@ -22,7 +22,7 @@ A simple and beginner-friendly electronic circuit design featuring a 5V power in
 ### 3. 3D View
 *A realistic 3D preview of the manufactured PCB board with its components.*
 
-<img width="1020" height="546" alt="Screenshot 2026-08-05 122131" src="https://github.com/user-attachments/assets/34762b0d-f5d4-4f60-b35a-1df09b9ec389" />
+<img width="510" height="273" alt="Screenshot 2026-08-05 122131" src="https://github.com/user-attachments/assets/34762b0d-f5d4-4f60-b35a-1df09b9ec389" />
 
 
 
